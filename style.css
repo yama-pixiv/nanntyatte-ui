@@ -1,0 +1,125 @@
+body {
+  background-color: #fff0f5;
+  color: #000080;
+  font-family: "MS PGothic", sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fffaf0;
+  border: 2px double #ff69b4;
+}
+
+h1 {
+  text-align: center;
+  color: #cc3399;
+  text-shadow: 1px 1px #ffb6c1;
+  margin-bottom: 10px;
+}
+
+.menu {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.menu a {
+  color: #ff1493;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.counter {
+  text-align: center;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.number {
+  color: red;
+  font-size: 18px;
+}
+
+.warning {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main-image {
+  display: block;
+  margin: 20px auto;
+  width: 400px;
+  border: 2px dotted pink;
+}
+
+marquee {
+  background-color: #ffe4e1;
+  color: #800000;
+  font-weight: bold;
+  padding: 5px;
+  margin: 10px 0;
+}
+
+.intro {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.post {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.post-header {
+  font-weight: bold;
+  color: #663366;
+  margin-bottom: 5px;
+}
+
+.name {
+  color: #cc3366;
+}
+
+img {
+  max-width: 100%;
+  border: 1px solid #ffcccc;
+  margin: 10px 0;
+}
+
+.comment {
+  background-color: #fff0f5;
+  padding: 10px;
+  border-left: 4px solid #ff69b4;
+  font-size: 14px;
+}
+
+.form {
+  border-top: 2px dotted #ccc;
+  padding-top: 20px;
+  margin-top: 30px;
+}
+
+form input, textarea {
+  font-family: "MS PGothic", sans-serif;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  margin-top: 40px;
+}
